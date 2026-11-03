@@ -1,6 +1,6 @@
 # Open Publishing Space Guides – Converted to Docsify-This
 
-> The two example guides from the [Grav Open Publishing Space skeleton](https://github.com/hibbitts-design/grav-skeleton-open-publishing-space), converted to plain Markdown pages for [Docsify-This](https://docsify-this.net/#/) by the [Open Publishing Guides Converter](https://open-publishing-guides-converter.hibbittsdesign.org).
+> The two example guides from the [Grav Open Publishing Space skeleton](https://github.com/hibbitts-design/grav-skeleton-open-publishing-space), converted to plain Markdown pages for [Docsify-This](https://docsify-this.net/#/) by the [Open Publishing Guides Converter](https://open-publishing-course-hub-converter.hibbittsdesign.org).
 
 View it as a website: https://docsify-this.net/?basePath=https://raw.githubusercontent.com/paulhibbitts/docsify-this-open-publishing-space-site/main&homepage=home.md&sidebar=true&loadSidebar=_sidebar.md&loadNavbar=_navbar.md&collapsibleSidebarGroups=true&pagination=true&searchbox=true&name=Open%20Publishing%20Space%20Guides
 
